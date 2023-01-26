@@ -1,1 +1,1 @@
-리액트로 클론코딩한 todoList
+TodoList 리액트 클론코딩
